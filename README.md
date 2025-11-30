@@ -1,2 +1,7 @@
 # Mathematical-Writing
-This is a collection of my mathematical research writing at Princeton University.
+A collection of mathematical research papers and notes authored by Sungho (Sam) Park at Princeton University.
+
+## Contents
+- *Introduction to Model Theory* (2025)
+- *Proof of the Tait Conjectures* (2024)
+- Additional papers and notes forthcoming.
